@@ -5,3 +5,6 @@ Minecraft-Ore-Detection-2/
 test/
 train/
 runs/
+datasets/
+yolo11n.pt
+yolov8s.pt

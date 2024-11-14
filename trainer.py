@@ -11,7 +11,7 @@ import torchvision
 
 # Define transforms for the training set. This is important because minimizing the image sizes helps speed up training.
 transforms = transforms.Compose([
-  transforms.Resize((224, 224)),
+  transforms.Resize((350, 350)),
   transforms.ToTensor(),
 ])
 
