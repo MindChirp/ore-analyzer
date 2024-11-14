@@ -1,2 +1,7 @@
 model.pth
 __pycache__/
+Minecraft-Ore-Detection-1/
+Minecraft-Ore-Detection-2/
+test/
+train/
+runs/
