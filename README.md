@@ -1,8 +1,9 @@
 # YOLOv11 (You Only Look Once) for categorizing ores within an image
 
 This repo is part of an even bigger assignment. For the other two repos which the assignment consists of, please see these links:
-[DiamondFinder](https://github.com/SkinnyAG/DiamondFinder/tree/master)
-[DiamondFinderPlugin](https://github.com/SkinnyAG/DiamondFinderPlugin)
+
+- [DiamondFinder](https://github.com/SkinnyAG/DiamondFinder/tree/master)
+- [DiamondFinderPlugin](https://github.com/SkinnyAG/DiamondFinderPlugin)
 
 ## So what is this?
 
