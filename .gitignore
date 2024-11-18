@@ -1,10 +1,8 @@
 model.pth
 __pycache__/
-Minecraft-Ore-Detection-1/
 Minecraft-Ore-Detection-2/
 test/
 train/
-runs/
 datasets/
 yolo11n.pt
 yolov8s.pt
